@@ -1,0 +1,6 @@
+campaign_id,client_id,campaign_type,platform,budget_usd,engagement_rate,start_date,status
+301,201,Instagram Ads,Instagram,500,0.045,2024-03-05,active
+302,202,YouTube Shorts,YouTube,200,0.032,2024-03-08,completed
+303,203,Product Launch,Multi-platform,1500,0.067,2024-03-10,active
+304,204,Email Marketing,Email,300,0.021,2024-03-12,completed
+305,205,Podcast Promotion,Spotify,800,0.054,2024-03-15,active
