@@ -1,0 +1,6 @@
+subscription_id,client_id,plan,monthly_fee_usd,start_date,status
+501,201,Pro,1200,2024-01-10,active
+502,202,Starter,500,2024-02-05,active
+503,203,Studio+,3000,2024-02-20,active
+504,204,Pro,1500,2024-03-01,active
+505,205,Studio+,4000,2024-03-10,active
