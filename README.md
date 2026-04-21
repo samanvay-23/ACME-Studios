@@ -1,7 +1,5 @@
 # ACME-Studios
 Creative content studio for marketing, media production, podcasts, BGM, and AI-driven growth solutions
-# Acme Studios
-
 A creative content and growth studio focused on marketing, media production, and brand scaling.
 
 ## Services
