@@ -36,3 +36,11 @@ Acme AI is a built-in assistant that helps clients:
 ## Repository Purpose
 
 This repository contains synthetic datasets and mock configurations to simulate internal tools used by Acme Studios.
+
+## Project Structure
+
+- data/ → client, campaign, and subscription datasets  
+- ai/ → AI-generated ideas and outputs  
+- analytics/ → performance reports and insights  
+- api/ → route definitions  
+- scripts/ → utility scripts  
