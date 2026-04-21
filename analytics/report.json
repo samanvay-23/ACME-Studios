@@ -1,0 +1,16 @@
+{
+  "generated_on": "2024-03-20",
+  "total_clients": 5,
+  "active_campaigns": 3,
+  "monthly_revenue_usd": 10200,
+  "average_engagement_rate": 0.044,
+  "top_performing_campaign": {
+    "campaign_id": 303,
+    "engagement_rate": 0.067
+  },
+  "insights": [
+    "Multi-platform campaigns are driving the highest engagement.",
+    "Studio+ clients contribute the majority of revenue.",
+    "Short-form video content shows consistent growth in engagement."
+  ]
+}
